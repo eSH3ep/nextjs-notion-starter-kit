@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '烈焰小狗的笔记本',
+  name: '烈火魔研社',
   domain: 'https://wooded-hydrant-a06.notion.site/7ff1afbc8d994441a898a8451e0dca99',
   author: 'Blazingdoggy',
 
