@@ -2,16 +2,16 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '6d9eda71bb084fea8d0222eaa9550081',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'DazingD',
+  domain: 'https://wooded-hydrant-a06.notion.site/6d9eda71bb084fea8d0222eaa9550081',
+  author: 'dazingdoggy',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
