@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '烈火魔研社',
-  domain: 'https://wooded-hydrant-a06.notion.site/7ff1afbc8d994441a898a8451e0dca99',
+  domain: 'https://www.notion.so/6d9eda71bb084fea8d0222eaa9550081?pvs=4',
   author: 'Blazingdoggy',
 
   // open graph metadata (optional)
