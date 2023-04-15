@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '6d9eda71bb084fea8d0222eaa9550081',
+  rootNotionPageId: 'blazingD-6d9eda71bb084fea8d0222eaa9550081',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'blazingD',
-  domain: 'https://wooded-hydrant-a06.notion.site/6d9eda71bb084fea8d0222eaa9550081',
+  domain: 'https://wooded-hydrant-a06.notion.site/blazingD-6d9eda71bb084fea8d0222eaa9550081',
   author: 'Blazingdoggy',
 
   // open graph metadata (optional)
