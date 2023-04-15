@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'blazingD',
   domain: 'https://www.wolai.com/8YFRkpkKaz6CF1gFhsMH92',
-  author: 'Blazingdoggy',
+  author: 'blazingdoggy',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
